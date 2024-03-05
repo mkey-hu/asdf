@@ -1,6 +1,6 @@
 --
 cat >.github/workflows/demo.yaml<<EOF
-name: asdf_workflow      # workflow name
+name: asdf          # workflow name
 
 on:
   push:                                       
